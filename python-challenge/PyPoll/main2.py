@@ -2,7 +2,7 @@ import os
 import csv
 
 # Define the path to the CSV file
-csvpath = os.path.join("/Users/gwendolinegrenu/Desktop/Starter_Code-4/PyPoll/Resources/election_data.csv")
+csvpath = os.path.join("../Resources/election_data.csv")
 # Define the output text file name
 output_file = "vote_counting.txt"
 
