@@ -2,7 +2,7 @@ import os
 import csv
 
 # Define the path to the CSV file
-csvpath = os.path.join("/Users/gwendolinegrenu/Desktop/Starter_Code-4/PyBank/Resources/budget_data.csv")
+csvpath = os.path.join("../Resources/budget_data.csv")
 # Define the output text file name
 output_file = "financial_analysis.txt"
 
